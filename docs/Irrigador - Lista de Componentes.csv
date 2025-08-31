@@ -1,0 +1,9 @@
+﻿Nome,Quantidade,Componente
+"U1",1," Arduino Uno R3"
+"SEN1",1," Sensor de umidade do solo"
+"R1",1,"1 kΩ Resistor"
+"T1",1," Transistor NPN (BJT)"
+"K1",1," Relé SPDT"
+"D1",1," Diodo"
+"BAT1",1," Bateria 9V"
+"M1",1," Motor CC"
